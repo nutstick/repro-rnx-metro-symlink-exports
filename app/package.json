@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@repro-rnx-metro-symlink-exports/utils": "^0.0.1",
+    "react": "17.0.2",
+    "react-native": "0.68.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@rnx-kit/metro-resolver-symlinks": "^0.1.16",
+    "metro-react-native-babel-preset": "^0.67.0"
+  }
+}

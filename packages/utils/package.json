@@ -1,0 +1,9 @@
+{
+  "name": "@repro-rnx-metro-symlink-exports/utils",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "private": true,
+  "dependencies": {
+    "telejson": "5.3.3"
+  }
+}
